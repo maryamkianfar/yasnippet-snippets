@@ -13,6 +13,7 @@
 
 ;; Official snippet collection for the yasnippet package.
 
+
 ;;; License:
 
 ;; This program is free software; you can redistribute it and/or modify
